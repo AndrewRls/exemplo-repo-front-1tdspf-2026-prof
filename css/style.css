@@ -18,6 +18,7 @@ ul{
 
 ul li{
     float: left;
+
 }
 ul li a{
     display: block;
@@ -32,7 +33,15 @@ ul li a:hover {
 ul li a.active {
     background-color:orange;
 }
-
+ ul li{
+    float: left;
+    border-right: 1px solid #cccccc;
+ }
+ul li:last-child {
+    border-right: none
+    
+    
+}
 
 
 
