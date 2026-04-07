@@ -1,7 +1,7 @@
 
 header {
-    background-color:rgb(0, 0, 0);
-    color: yellow; 
+    background-color:#000000;
+    color: blue;
 }
 
 header h1 {
@@ -15,5 +15,20 @@ ul{
     overflow:hidden;
     background-color: #333333;
 }
+
+ul li{
+    float: left;
+}
+ul li a{
+    display: block;
+    color: white;
+    text-align:center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+ul li a:hover {
+background-color:#3b0099;
+}
+
 
 
