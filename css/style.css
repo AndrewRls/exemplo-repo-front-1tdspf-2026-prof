@@ -1,6 +1,6 @@
 
 header {
-    background-color:#000000;
+    background-color:pink;
     color: blue;
 }
 
@@ -39,7 +39,7 @@ ul li a.active {
  }
 ul li:last-child {
     border-right: none
-    
+
     
 }
 
