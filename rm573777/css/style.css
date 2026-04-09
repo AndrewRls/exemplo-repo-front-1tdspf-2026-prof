@@ -1,0 +1,25 @@
+#cabecalho {background-color: #020101;
+color: #ffff00;}
+
+#cabecalho h1{ font-family: Arial, Helvetica, sans-serif;}
+
+#hero{
+    background-color: #464545;
+    text-align: justify;
+    padding-left: 10px;
+    /* box-shadow: right top blur */
+    box-shadow: 10px 5px 4px;
+    border-radius: 5px;
+}
+#hero a{
+    text-decoration: none;
+    color: #faebd7;
+    background-color: #464545;
+    padding-left: 10px;
+    border-radius: 5px;
+}
+
+#hero a:hover{
+    background-color: #fff;
+    color: #1a1b1c;
+}
