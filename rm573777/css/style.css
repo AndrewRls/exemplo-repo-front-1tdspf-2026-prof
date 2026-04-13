@@ -77,3 +77,12 @@ p {
 #div{
     margin-top: 20px;
 }
+#rodape{
+    text-align: center;
+    background-color: #313131;
+    color: #f0f8ff;
+    height: 30vh;
+}
+#rodape a{
+    color: rgb(235, 140, 156);
+}
