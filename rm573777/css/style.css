@@ -1,8 +1,14 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
 header {
     background-color: #925858;
     color: yellow;
 }
-header h1{
+body{
     font-family: Arial, sans-serif;
 }
 /* /Adicionando a barra de navegação (funcional em todas as páginas)/ */
