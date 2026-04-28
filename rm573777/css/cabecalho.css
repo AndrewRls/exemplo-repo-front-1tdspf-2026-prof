@@ -20,6 +20,7 @@
     padding: 4%;
     width: 9vw;
     text-align: center;
+    color: #fff;
    
 }
 
@@ -28,4 +29,16 @@
 .cabecalho__a:hover{
     background-color:#1763a5;
     color: #fff;
+}
+
+
+@media(max-width:320px){
+
+    .cabecalho__a{
+        padding: 2%;
+        width: 2%;
+        font-size: 2rem;
+    }
+
+
 }
